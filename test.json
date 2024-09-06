@@ -1,0 +1,2011 @@
+{
+    "Sheet1":[
+     {  
+      "kod": 4,
+      "kod_a_2": "AF",
+      "kod_a_3": "AFG",
+      "country_short": "АФГАНІСТАН",
+      "country_long": "Ісламська республіка Афганістан",
+      "country_en": "Afghanistan"
+     },
+     {
+      "kod": 8,
+      "kod_a_2": "AL",
+      "kod_a_3": "ALB",
+      "country_short": "АЛБАНІЯ",
+      "country_long": "Республіка Албанія",
+      "country_en": "Albania"
+     },
+     {
+      "kod": 10,
+      "kod_a_2": "AQ",
+      "kod_a_3": "ATA",
+      "country_short": "АНТАРКТИКА",
+      "country_long": "АНТАРКТИКА",
+      "country_en": "Antarctica"
+     },
+     {
+      "kod": 12,
+      "kod_a_2": "DZ",
+      "kod_a_3": "DZA",
+      "country_short": "АЛЖИР",
+      "country_long": "Алжирська Народна Демократична Республіка",
+      "country_en": "Algeria"
+     },
+     {
+      "kod": 16,
+      "kod_a_2": "AS",
+      "kod_a_3": "ASM",
+      "country_short": "АМЕРИКАНСЬКЕ САМОА",
+      "country_long": "АМЕРИКАНСЬКЕ САМОА",
+      "country_en": "American Samoa"
+     },
+     {
+      "kod": 20,
+      "kod_a_2": "AD",
+      "kod_a_3": "AND",
+      "country_short": "АНДОРРА",
+      "country_long": "Князівство Андорра",
+      "country_en": "Andorra"
+     },
+     {
+      "kod": 24,
+      "kod_a_2": "AO",
+      "kod_a_3": "AGO",
+      "country_short": "АНГОЛА",
+      "country_long": "Республіка Ангола",
+      "country_en": "Angola"
+     },
+     {
+      "kod": 28,
+      "kod_a_2": "AG",
+      "kod_a_3": "ATG",
+      "country_short": "АНТИГУА І БАРБУДА",
+      "country_long": "Антигуа і Барбуда",
+      "country_en": "Antigua and Barbuda"
+     },
+     {
+      "kod": 31,
+      "kod_a_2": "AZ",
+      "kod_a_3": "AZE",
+      "country_short": "АЗЕРБАЙДЖАН",
+      "country_long": "Азербайджанська Республіка",
+      "country_en": "Azerbaijan"
+     },
+     {
+      "kod": 32,
+      "kod_a_2": "AR",
+      "kod_a_3": "ARG",
+      "country_short": "АРГЕНТИНА",
+      "country_long": "Аргентинська Республіка",
+      "country_en": "Argentina"
+     },
+     {
+      "kod": 36,
+      "kod_a_2": "AU",
+      "kod_a_3": "AUS",
+      "country_short": "АВСТРАЛІЯ",
+      "country_long": "АВСТРАЛІЯ",
+      "country_en": "Australia"
+     },
+     {
+      "kod": 40,
+      "kod_a_2": "AT",
+      "kod_a_3": "AUT",
+      "country_short": "АВСТРІЯ",
+      "country_long": "Австрійська Республіка",
+      "country_en": "Austria"
+     },
+     {
+      "kod": 44,
+      "kod_a_2": "BS",
+      "kod_a_3": "BHS",
+      "country_short": "БАГАМСЬКІ ОСТРОВИ",
+      "country_long": "Співдружність Багамських Островів",
+      "country_en": "Bahamas"
+     },
+     {
+      "kod": 48,
+      "kod_a_2": "BH",
+      "kod_a_3": "BHR",
+      "country_short": "БАХРЕЙН",
+      "country_long": "Королівство Бахрейн",
+      "country_en": "Bahrain"
+     },
+     {
+      "kod": 50,
+      "kod_a_2": "BD",
+      "kod_a_3": "BGD",
+      "country_short": "БАНГЛАДЕШ",
+      "country_long": "Народна Республіка Бангладеш",
+      "country_en": "Bangladesh"
+     },
+     {
+      "kod": 51,
+      "kod_a_2": "AM",
+      "kod_a_3": "ARM",
+      "country_short": "ВІРМЕНІЯ",
+      "country_long": "Республіка Вірменія",
+      "country_en": "Armenia"
+     },
+     {
+      "kod": 52,
+      "kod_a_2": "BB",
+      "kod_a_3": "BRB",
+      "country_short": "БАРБАДОС",
+      "country_long": "БАРБАДОС",
+      "country_en": "Barbados"
+     },
+     {
+      "kod": 56,
+      "kod_a_2": "BE",
+      "kod_a_3": "BEL",
+      "country_short": "БЕЛЬГІЯ",
+      "country_long": "Королівство Бельгія",
+      "country_en": "Belgium"
+     },
+     {
+      "kod": 60,
+      "kod_a_2": "BM",
+      "kod_a_3": "BMU",
+      "country_short": "БЕРМУДСЬКІ ОСТРОВИ",
+      "country_long": "БЕРМУДСЬКІ ОСТРОВИ",
+      "country_en": "Bermuda"
+     },
+     {
+      "kod": 64,
+      "kod_a_2": "BT",
+      "kod_a_3": "BTN",
+      "country_short": "БУТАН",
+      "country_long": "Королівство Бутан",
+      "country_en": "Bhutan"
+     },
+     {
+      "kod": 68,
+      "kod_a_2": "BO",
+      "kod_a_3": "BOL",
+      "country_short": "БОЛІВІЯ",
+      "country_long": "Багатонаціональна держава Болівія",
+      "country_en": "Bolivia, Plurinational State of"
+     },
+     {
+      "kod": 70,
+      "kod_a_2": "BA",
+      "kod_a_3": "BIH",
+      "country_short": "БОСНІЯ І ГЕРЦЕГОВИНА",
+      "country_long": "Боснія і Герцеговина",
+      "country_en": "Bosnia and Herzegovina"
+     },
+     {
+      "kod": 72,
+      "kod_a_2": "BW",
+      "kod_a_3": "BWA",
+      "country_short": "БОТСВАНА",
+      "country_long": "Республіка Ботсвана",
+      "country_en": "Botswana"
+     },
+     {
+      "kod": 74,
+      "kod_a_2": "BV",
+      "kod_a_3": "BVT",
+      "country_short": "ОСТРІВ БУВЕ",
+      "country_long": "ОСТРІВ БУВЕ",
+      "country_en": "Bouvet Island"
+     },
+     {
+      "kod": 76,
+      "kod_a_2": "BR",
+      "kod_a_3": "BRA",
+      "country_short": "БРАЗИЛІЯ",
+      "country_long": "Федеративна Республіка Бразилія",
+      "country_en": "Brazil"
+     },
+     {
+      "kod": 84,
+      "kod_a_2": "BZ",
+      "kod_a_3": "BLZ",
+      "country_short": "БЕЛІЗ",
+      "country_long": "БЕЛІЗ",
+      "country_en": "Belize"
+     },
+     {
+      "kod": 86,
+      "kod_a_2": "IO",
+      "kod_a_3": "IOT",
+      "country_short": "БРИТАНСЬКА ТЕРИТОРІЯ В ІНДІЙСЬКОМУ ОКЕАНІ",
+      "country_long": "БРИТАНСЬКА ТЕРИТОРІЯ В ІНДІЙСЬКОМУ ОКЕАНІ",
+      "country_en": "British Indian Ocean Territory"
+     },
+     {
+      "kod": 90,
+      "kod_a_2": "SB",
+      "kod_a_3": "SLB",
+      "country_short": "СОЛОМОНОВІ ОСТРОВИ",
+      "country_long": "СОЛОМОНОВІ ОСТРОВИ",
+      "country_en": "Solomon Islands"
+     },
+     {
+      "kod": 92,
+      "kod_a_2": "VG",
+      "kod_a_3": "VGB",
+      "country_short": "ВІРГІНСЬКІ ОСТРОВИ (БРИТ.)",
+      "country_long": "Британські Віргінські Острови",
+      "country_en": "Virgin Islands, British"
+     },
+     {
+      "kod": 96,
+      "kod_a_2": "BN",
+      "kod_a_3": "BRN",
+      "country_short": "БРУНЕЙ-ДАРУССАЛАМ",
+      "country_long": "БРУНЕЙ-ДАРУССАЛАМ",
+      "country_en": "Brunei Darussalam"
+     },
+     {
+      "kod": 100,
+      "kod_a_2": "BG",
+      "kod_a_3": "BGR",
+      "country_short": "БОЛГАРІЯ",
+      "country_long": "Республіка Болгарія",
+      "country_en": "Bulgaria"
+     },
+     {
+      "kod": 104,
+      "kod_a_2": "MM",
+      "kod_a_3": "MMR",
+      "country_short": "М'ЯНМА",
+      "country_long": "Республіка Союзу М'янма",
+      "country_en": "Myanmar"
+     },
+     {
+      "kod": 108,
+      "kod_a_2": "BI",
+      "kod_a_3": "BDI",
+      "country_short": "БУРУНДІ",
+      "country_long": "Республіка Бурунді",
+      "country_en": "Burundi"
+     },
+     {
+      "kod": 112,
+      "kod_a_2": "BY",
+      "kod_a_3": "BLR",
+      "country_short": "БІЛОРУСЬ",
+      "country_long": "Республіка Білорусь",
+      "country_en": "Belarus"
+     },
+     {
+      "kod": 116,
+      "kod_a_2": "KH",
+      "kod_a_3": "KHM",
+      "country_short": "КАМБОДЖА",
+      "country_long": "Королівство Камбоджа",
+      "country_en": "Cambodia"
+     },
+     {
+      "kod": 120,
+      "kod_a_2": "CM",
+      "kod_a_3": "CMR",
+      "country_short": "КАМЕРУН",
+      "country_long": "Республіка Камерун",
+      "country_en": "Cameroon"
+     },
+     {
+      "kod": 124,
+      "kod_a_2": "CA",
+      "kod_a_3": "CAN",
+      "country_short": "КАНАДА",
+      "country_long": "КАНАДА",
+      "country_en": "Canada"
+     },
+     {
+      "kod": 132,
+      "kod_a_2": "CV",
+      "kod_a_3": "CPV",
+      "country_short": "КАБО-ВЕРДЕ",
+      "country_long": "Республіка Кабо-Верде",
+      "country_en": "Cabo Verde"
+     },
+     {
+      "kod": 136,
+      "kod_a_2": "KY",
+      "kod_a_3": "CYM",
+      "country_short": "КАЙМАНОВІ ОСТРОВИ",
+      "country_long": "КАЙМАНОВІ ОСТРОВИ",
+      "country_en": "Cayman Islands"
+     },
+     {
+      "kod": 140,
+      "kod_a_2": "CF",
+      "kod_a_3": "CAF",
+      "country_short": "ЦЕНТРАЛЬНОАФРИКАНСЬКА РЕСПУБЛІКА",
+      "country_long": "ЦЕНТРАЛЬНОАФРИКАНСЬКА РЕСПУБЛІКА",
+      "country_en": "Central African Republic"
+     },
+     {
+      "kod": 144,
+      "kod_a_2": "LK",
+      "kod_a_3": "LKA",
+      "country_short": "ШРИ-ЛАНКА",
+      "country_long": "Демократична Соціалістична Республіка Шри-Ланка",
+      "country_en": "Sri Lanka"
+     },
+     {
+      "kod": 148,
+      "kod_a_2": "TD",
+      "kod_a_3": "TCD",
+      "country_short": "ЧАД",
+      "country_long": "Республіка Чад",
+      "country_en": "Chad"
+     },
+     {
+      "kod": 152,
+      "kod_a_2": "CL",
+      "kod_a_3": "CHL",
+      "country_short": "ЧИЛІ",
+      "country_long": "Республіка Чилі",
+      "country_en": "Chile"
+     },
+     {
+      "kod": 156,
+      "kod_a_2": "CN",
+      "kod_a_3": "CHN",
+      "country_short": "КИТАЙ",
+      "country_long": "Китайська Народна Республіка",
+      "country_en": "China"
+     },
+     {
+      "kod": 158,
+      "kod_a_2": "TW",
+      "kod_a_3": "TWN",
+      "country_short": "ТАЙВАНЬ, ПРОВІНЦІЯ КИТАЮ",
+      "country_long": "ТАЙВАНЬ, ПРОВІНЦІЯ  КИТАЮ",
+      "country_en": "Taiwan, Province of China"
+     },
+     {
+      "kod": 162,
+      "kod_a_2": "CX",
+      "kod_a_3": "CXR",
+      "country_short": "ОСТРІВ РІЗДВА",
+      "country_long": "ОСТРІВ РІЗДВА",
+      "country_en": "Christmas Island"
+     },
+     {
+      "kod": 166,
+      "kod_a_2": "CC",
+      "kod_a_3": "CCK",
+      "country_short": "КОКОСОВІ (КІЛІНГ) ОСТРОВИ",
+      "country_long": "Кокосові (Кілінг) острови",
+      "country_en": "Cocos (Keeling) Islands"
+     },
+     {
+      "kod": 170,
+      "kod_a_2": "CO",
+      "kod_a_3": "COL",
+      "country_short": "КОЛУМБІЯ",
+      "country_long": "Республіка Колумбія",
+      "country_en": "Colombia"
+     },
+     {
+      "kod": 174,
+      "kod_a_2": "KM",
+      "kod_a_3": "COM",
+      "country_short": "КОМОРИ",
+      "country_long": "Союз Коморських Островів",
+      "country_en": "Comoros"
+     },
+     {
+      "kod": 175,
+      "kod_a_2": "YT",
+      "kod_a_3": "MYT",
+      "country_short": "МАЙОТТА",
+      "country_long": "МАЙОТТА",
+      "country_en": "Mayotte"
+     },
+     {
+      "kod": 178,
+      "kod_a_2": "CG",
+      "kod_a_3": "COG",
+      "country_short": "КОНГО",
+      "country_long": "Республіка Конго",
+      "country_en": "Congo"
+     },
+     {
+      "kod": 180,
+      "kod_a_2": "CD",
+      "kod_a_3": "COD",
+      "country_short": "КОНГО, ДЕМОКРАТИЧНА РЕСПУБЛІКА",
+      "country_long": "Демократична Республіка Конго",
+      "country_en": "Congo, Democratic Republic of the"
+     },
+     {
+      "kod": 184,
+      "kod_a_2": "CK",
+      "kod_a_3": "COK",
+      "country_short": "ОСТРОВИ КУКА",
+      "country_long": "ОСТРОВИ КУКА",
+      "country_en": "Cook Islands"
+     },
+     {
+      "kod": 188,
+      "kod_a_2": "CR",
+      "kod_a_3": "CRI",
+      "country_short": "КОСТА-РИКА",
+      "country_long": "Республіка Коста-Рика",
+      "country_en": "Costa Rica"
+     },
+     {
+      "kod": 191,
+      "kod_a_2": "HR",
+      "kod_a_3": "HRV",
+      "country_short": "ХОРВАТІЯ",
+      "country_long": "Республіка Хорватія",
+      "country_en": "Croatia"
+     },
+     {
+      "kod": 192,
+      "kod_a_2": "CU",
+      "kod_a_3": "CUB",
+      "country_short": "КУБА",
+      "country_long": "Республіка Куба",
+      "country_en": "Cuba"
+     },
+     {
+      "kod": 196,
+      "kod_a_2": "CY",
+      "kod_a_3": "CYP",
+      "country_short": "КІПР",
+      "country_long": "Республіка Кіпр",
+      "country_en": "Cyprus"
+     },
+     {
+      "kod": 203,
+      "kod_a_2": "CZ",
+      "kod_a_3": "CZE",
+      "country_short": "ЧЕХІЯ",
+      "country_long": "Чеська Республіка",
+      "country_en": "Czech Republic"
+     },
+     {
+      "kod": 204,
+      "kod_a_2": "BJ",
+      "kod_a_3": "BEN",
+      "country_short": "БЕНІН",
+      "country_long": "Республіка Бенін",
+      "country_en": "Benin"
+     },
+     {
+      "kod": 208,
+      "kod_a_2": "DK",
+      "kod_a_3": "DNK",
+      "country_short": "ДАНІЯ",
+      "country_long": "Королівство Данія",
+      "country_en": "Denmark"
+     },
+     {
+      "kod": 212,
+      "kod_a_2": "DM",
+      "kod_a_3": "DMA",
+      "country_short": "ДОМІНІКА",
+      "country_long": "Співдружність Домініки",
+      "country_en": "Dominica"
+     },
+     {
+      "kod": 214,
+      "kod_a_2": "DO",
+      "kod_a_3": "DOM",
+      "country_short": "ДОМІНІКАНСЬКА РЕСПУБЛІКА",
+      "country_long": "ДОМІНІКАНСЬКА РЕСПУБЛІКА",
+      "country_en": "Dominican Republic"
+     },
+     {
+      "kod": 218,
+      "kod_a_2": "EC",
+      "kod_a_3": "ECU",
+      "country_short": "ЕКВАДОР",
+      "country_long": "Республіка Еквадор",
+      "country_en": "Ecuador"
+     },
+     {
+      "kod": 222,
+      "kod_a_2": "SV",
+      "kod_a_3": "SLV",
+      "country_short": "САЛЬВАДОР",
+      "country_long": "Республіка Ель-Сальвадор",
+      "country_en": "El Salvador"
+     },
+     {
+      "kod": 226,
+      "kod_a_2": "GQ",
+      "kod_a_3": "GNQ",
+      "country_short": "ЕКВАТОРІАЛЬНА ГВІНЕЯ",
+      "country_long": "Республіка Екваторіальна Гвінея",
+      "country_en": "Equatorial Guinea"
+     },
+     {
+      "kod": 231,
+      "kod_a_2": "ET",
+      "kod_a_3": "ETH",
+      "country_short": "ЕФІОПІЯ",
+      "country_long": "Федеративна Демократична Республіка Ефіопія",
+      "country_en": "Ethiopia"
+     },
+     {
+      "kod": 232,
+      "kod_a_2": "ER",
+      "kod_a_3": "ERI",
+      "country_short": "ЕРИТРЕЯ",
+      "country_long": "ЕРИТРЕЯ",
+      "country_en": "Eritrea"
+     },
+     {
+      "kod": 233,
+      "kod_a_2": "EE",
+      "kod_a_3": "EST",
+      "country_short": "ЕСТОНІЯ",
+      "country_long": "Республіка Естонія",
+      "country_en": "Estonia"
+     },
+     {
+      "kod": 234,
+      "kod_a_2": "FO",
+      "kod_a_3": "FRO",
+      "country_short": "ФАРЕРСЬКІ ОСТРОВИ",
+      "country_long": "ФАРЕРСЬКІ ОСТРОВИ",
+      "country_en": "Faroe Islands"
+     },
+     {
+      "kod": 238,
+      "kod_a_2": "FK",
+      "kod_a_3": "FLK",
+      "country_short": "ФОЛКЛЕНДСЬКІ (МАЛЬВІНСЬКІ) ОСТРОВИ",
+      "country_long": "ФОЛКЛЕНДСЬКІ (МАЛЬВІНСЬКІ) ОСТРОВИ",
+      "country_en": "Falkland Islands (Malvinas)"
+     },
+     {
+      "kod": 239,
+      "kod_a_2": "GS",
+      "kod_a_3": "SGS",
+      "country_short": "ПІВДЕННА ДЖОРДЖІЯ ТА ПІВДЕННІ САНДВІЧЕВІ ОСТРОВИ",
+      "country_long": "ПІВДЕННА ДЖОРДЖІЯ ТА ПІВДЕННІ САНДВІЧЕВІ ОСТРОВИ",
+      "country_en": "South Georgia and the South Sandwich Islands"
+     },
+     {
+      "kod": 242,
+      "kod_a_2": "FJ",
+      "kod_a_3": "FJI",
+      "country_short": "ФІДЖІ",
+      "country_long": "Республіка Фіджі",
+      "country_en": "Fiji"
+     },
+     {
+      "kod": 246,
+      "kod_a_2": "FI",
+      "kod_a_3": "FIN",
+      "country_short": "ФІНЛЯНДІЯ",
+      "country_long": "Республіка Фінляндія",
+      "country_en": "Finland"
+     },
+     {
+      "kod": 248,
+      "kod_a_2": "AX",
+      "kod_a_3": "ALA",
+      "country_short": "АЛАНДСЬКІ ОСТРОВИ",
+      "country_long": "АЛАНДСЬКІ ОСТРОВИ",
+      "country_en": "Aland Islands"
+     },
+     {
+      "kod": 250,
+      "kod_a_2": "FR",
+      "kod_a_3": "FRA",
+      "country_short": "ФРАНЦІЯ",
+      "country_long": "Французька Республіка",
+      "country_en": "France"
+     },
+     {
+      "kod": 254,
+      "kod_a_2": "GF",
+      "kod_a_3": "GUF",
+      "country_short": "ФРАНЦУЗЬКА ГВІАНА",
+      "country_long": "Французька Гвіана",
+      "country_en": "French Guiana"
+     },
+     {
+      "kod": 258,
+      "kod_a_2": "PF",
+      "kod_a_3": "PYF",
+      "country_short": "ФРАНЦУЗЬКА ПОЛІНЕЗІЯ",
+      "country_long": "ФРАНЦУЗЬКА ПОЛІНЕЗІЯ",
+      "country_en": "French Polynesia"
+     },
+     {
+      "kod": 260,
+      "kod_a_2": "TF",
+      "kod_a_3": "ATF",
+      "country_short": "ФРАНЦУЗЬКІ ПІВДЕННІ ТЕРИТОРІЇ",
+      "country_long": "ФРАНЦУЗЬКІ ПІВДЕННІ ТЕРИТОРІЇ",
+      "country_en": "French Southern Territories"
+     },
+     {
+      "kod": 262,
+      "kod_a_2": "DJ",
+      "kod_a_3": "DJI",
+      "country_short": "ДЖИБУТІ",
+      "country_long": "Республіка Джибуті",
+      "country_en": "Djibouti"
+     },
+     {
+      "kod": 266,
+      "kod_a_2": "GA",
+      "kod_a_3": "GAB",
+      "country_short": "ГАБОН",
+      "country_long": "Габонська Республіка",
+      "country_en": "Gabon"
+     },
+     {
+      "kod": 268,
+      "kod_a_2": "GE",
+      "kod_a_3": "GEO",
+      "country_short": "ГРУЗІЯ",
+      "country_long": "ГРУЗІЯ",
+      "country_en": "Georgia"
+     },
+     {
+      "kod": 270,
+      "kod_a_2": "GM",
+      "kod_a_3": "GMB",
+      "country_short": "ГАМБІЯ",
+      "country_long": "Республіка Гамбія",
+      "country_en": "Gambia"
+     },
+     {
+      "kod": 275,
+      "kod_a_2": "PS",
+      "kod_a_3": "PSE",
+      "country_short": "ПАЛЕСТИНА",
+      "country_long": "Держава Палестина",
+      "country_en": "State of Palestine"
+     },
+     {
+      "kod": 276,
+      "kod_a_2": "DE",
+      "kod_a_3": "DEU",
+      "country_short": "НІМЕЧЧИНА",
+      "country_long": "Федеративна Республiка Німеччина",
+      "country_en": "Germany"
+     },
+     {
+      "kod": 288,
+      "kod_a_2": "GH",
+      "kod_a_3": "GHA",
+      "country_short": "ГАНА",
+      "country_long": "Республіка Гана",
+      "country_en": "Ghana"
+     },
+     {
+      "kod": 292,
+      "kod_a_2": "GI",
+      "kod_a_3": "GIB",
+      "country_short": "ГІБРАЛТАР",
+      "country_long": "Гібралтар",
+      "country_en": "Gibraltar"
+     },
+     {
+      "kod": 296,
+      "kod_a_2": "KI",
+      "kod_a_3": "KIR",
+      "country_short": "КІРИБАТІ",
+      "country_long": "Республіка Кірибаті",
+      "country_en": "Kiribati"
+     },
+     {
+      "kod": 300,
+      "kod_a_2": "GR",
+      "kod_a_3": "GRC",
+      "country_short": "ГРЕЦІЯ",
+      "country_long": "Грецька Республіка",
+      "country_en": "Greece"
+     },
+     {
+      "kod": 304,
+      "kod_a_2": "GL",
+      "kod_a_3": "GRL",
+      "country_short": "ГРЕНЛАНДІЯ",
+      "country_long": "Гренландія",
+      "country_en": "Greenland"
+     },
+     {
+      "kod": 308,
+      "kod_a_2": "GD",
+      "kod_a_3": "GRD",
+      "country_short": "ГРЕНАДА",
+      "country_long": "Гренада",
+      "country_en": "Grenada"
+     },
+     {
+      "kod": 312,
+      "kod_a_2": "GP",
+      "kod_a_3": "GLP",
+      "country_short": "ГВАДЕЛУПА",
+      "country_long": "Гваделупа",
+      "country_en": "Guadeloupe"
+     },
+     {
+      "kod": 316,
+      "kod_a_2": "GU",
+      "kod_a_3": "GUM",
+      "country_short": "ГУАМ",
+      "country_long": "Гуам",
+      "country_en": "Guam"
+     },
+     {
+      "kod": 320,
+      "kod_a_2": "GT",
+      "kod_a_3": "GTM",
+      "country_short": "ГВАТЕМАЛА",
+      "country_long": "Республіка Гватемала",
+      "country_en": "Guatemala"
+     },
+     {
+      "kod": 324,
+      "kod_a_2": "GN",
+      "kod_a_3": "GIN",
+      "country_short": "ГВІНЕЯ",
+      "country_long": "Республіка Гвінея",
+      "country_en": "Guinea"
+     },
+     {
+      "kod": 328,
+      "kod_a_2": "GY",
+      "kod_a_3": "GUY",
+      "country_short": "ГАЯНА",
+      "country_long": "Республіка Гаяна",
+      "country_en": "Guyana"
+     },
+     {
+      "kod": 332,
+      "kod_a_2": "HT",
+      "kod_a_3": "HTI",
+      "country_short": "ГАЇТІ",
+      "country_long": "Республіка Гаїті",
+      "country_en": "Haiti"
+     },
+     {
+      "kod": 334,
+      "kod_a_2": "HM",
+      "kod_a_3": "HMD",
+      "country_short": "ОСТРІВ ГЕРД І ОСТРОВИ МАКДОНАЛД",
+      "country_long": "ОСТРІВ ГЕРД І ОСТРОВИ МАКДОНАЛД",
+      "country_en": "Heard Island and McDonald Islands"
+     },
+     {
+      "kod": 336,
+      "kod_a_2": "VA",
+      "kod_a_3": "VAT",
+      "country_short": "СВЯТИЙ ПРЕСТОЛ (ДЕРЖАВА-МІСТО ВАТИКАН)",
+      "country_long": "СВЯТИЙ ПРЕСТОЛ (ДЕРЖАВА-МІСТО ВАТИКАН)",
+      "country_en": "Holly See (Vatican City State)"
+     },
+     {
+      "kod": 340,
+      "kod_a_2": "HN",
+      "kod_a_3": "HND",
+      "country_short": "ГОНДУРАС",
+      "country_long": "Республіка Гондурас",
+      "country_en": "Honduras"
+     },
+     {
+      "kod": 344,
+      "kod_a_2": "HK",
+      "kod_a_3": "HKG",
+      "country_short": "ГОНКОНГ",
+      "country_long": "Особливий адміністративний район Китаю Гонконг",
+      "country_en": "Hong Kong"
+     },
+     {
+      "kod": 348,
+      "kod_a_2": "HU",
+      "kod_a_3": "HUN",
+      "country_short": "УГОРЩИНА",
+      "country_long": "УГОРЩИНА",
+      "country_en": "Hungary"
+     },
+     {
+      "kod": 352,
+      "kod_a_2": "IS",
+      "kod_a_3": "ISL",
+      "country_short": "ІСЛАНДІЯ",
+      "country_long": "Республіка Ісландія",
+      "country_en": "Iceland"
+     },
+     {
+      "kod": 356,
+      "kod_a_2": "IN",
+      "kod_a_3": "IND",
+      "country_short": "ІНДІЯ",
+      "country_long": "Республіка Індія",
+      "country_en": "India"
+     },
+     {
+      "kod": 360,
+      "kod_a_2": "ID",
+      "kod_a_3": "IDN",
+      "country_short": "ІНДОНЕЗІЯ",
+      "country_long": "Республіка Індонезія",
+      "country_en": "Indonesia"
+     },
+     {
+      "kod": 364,
+      "kod_a_2": "IR",
+      "kod_a_3": "IRN",
+      "country_short": "ІРАН, ІСЛАМСЬКА РЕСПУБЛІКА",
+      "country_long": "Ісламська Республіка Іран",
+      "country_en": "Iran, Islamic Republic of"
+     },
+     {
+      "kod": 368,
+      "kod_a_2": "IQ",
+      "kod_a_3": "IRQ",
+      "country_short": "ІРАК",
+      "country_long": "Республіка Ірак",
+      "country_en": "Iraq"
+     },
+     {
+      "kod": 372,
+      "kod_a_2": "IE",
+      "kod_a_3": "IRL",
+      "country_short": "ІРЛАНДІЯ",
+      "country_long": "ІРЛАНДІЯ",
+      "country_en": "Ireland"
+     },
+     {
+      "kod": 376,
+      "kod_a_2": "IL",
+      "kod_a_3": "ISR",
+      "country_short": "ІЗРАЇЛЬ",
+      "country_long": "Держава Ізраїль",
+      "country_en": "Israel"
+     },
+     {
+      "kod": 380,
+      "kod_a_2": "IT",
+      "kod_a_3": "ITA",
+      "country_short": "ІТАЛІЯ",
+      "country_long": "Італійська Республіка",
+      "country_en": "Italy"
+     },
+     {
+      "kod": 384,
+      "kod_a_2": "CI",
+      "kod_a_3": "CIV",
+      "country_short": "КОТ-Д'ІВУАР",
+      "country_long": "Республіка Кот-Д'Івуар",
+      "country_en": "Cote  d'Ivoire"
+     },
+     {
+      "kod": 388,
+      "kod_a_2": "JM",
+      "kod_a_3": "JAM",
+      "country_short": "ЯМАЙКА",
+      "country_long": "ЯМАЙКА",
+      "country_en": "Jamaica"
+     },
+     {
+      "kod": 392,
+      "kod_a_2": "JP",
+      "kod_a_3": "JPN",
+      "country_short": "ЯПОНІЯ",
+      "country_long": "ЯПОНІЯ",
+      "country_en": "Japan"
+     },
+     {
+      "kod": 398,
+      "kod_a_2": "KZ",
+      "kod_a_3": "KAZ",
+      "country_short": "КАЗАХСТАН",
+      "country_long": "Республіка Казахстан",
+      "country_en": "Kazakhstan"
+     },
+     {
+      "kod": 400,
+      "kod_a_2": "JO",
+      "kod_a_3": "JOR",
+      "country_short": "ЙОРДАНІЯ",
+      "country_long": "Йорданське Хашимітське Королівство",
+      "country_en": "Jordan"
+     },
+     {
+      "kod": 404,
+      "kod_a_2": "KE",
+      "kod_a_3": "KEN",
+      "country_short": "КЕНІЯ",
+      "country_long": "Республіка Кенія",
+      "country_en": "Kenya"
+     },
+     {
+      "kod": 408,
+      "kod_a_2": "KP",
+      "kod_a_3": "PRK",
+      "country_short": "КОРЕЙСЬКА НАРОДНО-ДЕМОКРАТИЧНА РЕСПУБЛІКА",
+      "country_long": "КОРЕЙСЬКА НАРОДНО-ДЕМОКРАТИЧНА РЕСПУБЛІКА",
+      "country_en": "Korea, Democratic People?s Republic"
+     },
+     {
+      "kod": 410,
+      "kod_a_2": "KR",
+      "kod_a_3": "KOR",
+      "country_short": "КОРЕЯ, РЕСПУБЛІКА",
+      "country_long": "Республіка Корея",
+      "country_en": "Korea, Republic of"
+     },
+     {
+      "kod": 414,
+      "kod_a_2": "KW",
+      "kod_a_3": "KWT",
+      "country_short": "КУВЕЙТ",
+      "country_long": "Держава Кувейт",
+      "country_en": "Kuwait"
+     },
+     {
+      "kod": 417,
+      "kod_a_2": "KG",
+      "kod_a_3": "KGZ",
+      "country_short": "КИРГИЗСТАН",
+      "country_long": "Киргизька Республіка",
+      "country_en": "Kyrgyzstan"
+     },
+     {
+      "kod": 418,
+      "kod_a_2": "LA",
+      "kod_a_3": "LAO",
+      "country_short": "ЛАОСЬКА НАРОДНО-ДЕМОКРАТИЧНА РЕСПУБЛІКА",
+      "country_long": "ЛАОСЬКА НАРОДНО-ДЕМОКРАТИЧНА РЕСПУБЛІКА",
+      "country_en": "Lao People?s Democratic Republic"
+     },
+     {
+      "kod": 422,
+      "kod_a_2": "LB",
+      "kod_a_3": "LBN",
+      "country_short": "ЛІВАН",
+      "country_long": "Ліванська Республіка",
+      "country_en": "Lebanon"
+     },
+     {
+      "kod": 426,
+      "kod_a_2": "LS",
+      "kod_a_3": "LSO",
+      "country_short": "ЛЕСОТО",
+      "country_long": "Королівство Лесото",
+      "country_en": "Lesotho"
+     },
+     {
+      "kod": 428,
+      "kod_a_2": "LV",
+      "kod_a_3": "LVA",
+      "country_short": "ЛАТВІЯ",
+      "country_long": "Латвійська Республіка",
+      "country_en": "Latvia"
+     },
+     {
+      "kod": 430,
+      "kod_a_2": "LR",
+      "kod_a_3": "LBR",
+      "country_short": "ЛІБЕРІЯ",
+      "country_long": "Республіка Ліберія",
+      "country_en": "Liberia"
+     },
+     {
+      "kod": 434,
+      "kod_a_2": "LY",
+      "kod_a_3": "LBY",
+      "country_short": "ЛІВІЯ",
+      "country_long": "ЛІВІЯ",
+      "country_en": "Libya"
+     },
+     {
+      "kod": 438,
+      "kod_a_2": "LI",
+      "kod_a_3": "LIE",
+      "country_short": "ЛІХТЕНШТЕЙН",
+      "country_long": "Князівство Ліхтенштейн",
+      "country_en": "Liechtenstein"
+     },
+     {
+      "kod": 440,
+      "kod_a_2": "LT",
+      "kod_a_3": "LTU",
+      "country_short": "ЛИТВА",
+      "country_long": "Литовська Республіка",
+      "country_en": "Lithuania"
+     },
+     {
+      "kod": 442,
+      "kod_a_2": "LU",
+      "kod_a_3": "LUX",
+      "country_short": "ЛЮКСЕМБУРГ",
+      "country_long": "Велике Герцогство Люксембург",
+      "country_en": "Luxembourg"
+     },
+     {
+      "kod": 446,
+      "kod_a_2": "MO",
+      "kod_a_3": "MAC",
+      "country_short": "МАКАО",
+      "country_long": "Особливий адміністративний район Китаю Макао",
+      "country_en": "Macaо"
+     },
+     {
+      "kod": 450,
+      "kod_a_2": "MG",
+      "kod_a_3": "MDG",
+      "country_short": "МАДАГАСКАР",
+      "country_long": "Республіка Мадагаскар",
+      "country_en": "Madagascar"
+     },
+     {
+      "kod": 454,
+      "kod_a_2": "MW",
+      "kod_a_3": "MWI",
+      "country_short": "МАЛАВІ",
+      "country_long": "Республіка Малаві",
+      "country_en": "Malawi"
+     },
+     {
+      "kod": 458,
+      "kod_a_2": "MY",
+      "kod_a_3": "MYS",
+      "country_short": "МАЛАЙЗІЯ",
+      "country_long": "МАЛАЙЗІЯ",
+      "country_en": "Malaysia"
+     },
+     {
+      "kod": 462,
+      "kod_a_2": "MV",
+      "kod_a_3": "MDV",
+      "country_short": "МАЛЬДІВИ",
+      "country_long": "Мальдівська Республіка",
+      "country_en": "Maldives"
+     },
+     {
+      "kod": 466,
+      "kod_a_2": "ML",
+      "kod_a_3": "MLI",
+      "country_short": "МАЛІ",
+      "country_long": "Республіка Малі",
+      "country_en": "Mali"
+     },
+     {
+      "kod": 470,
+      "kod_a_2": "MT",
+      "kod_a_3": "MLT",
+      "country_short": "МАЛЬТА",
+      "country_long": "Республіка Мальта",
+      "country_en": "Malta"
+     },
+     {
+      "kod": 474,
+      "kod_a_2": "MQ",
+      "kod_a_3": "MTQ",
+      "country_short": "МАРТИНІКА",
+      "country_long": "Мартиніка",
+      "country_en": "Martinique"
+     },
+     {
+      "kod": 478,
+      "kod_a_2": "MR",
+      "kod_a_3": "MRT",
+      "country_short": "МАВРИТАНІЯ",
+      "country_long": "Ісламська Республіка Мавританія",
+      "country_en": "Mauritania"
+     },
+     {
+      "kod": 480,
+      "kod_a_2": "MU",
+      "kod_a_3": "MUS",
+      "country_short": "МАВРИКІЙ",
+      "country_long": "Республіка Маврикій",
+      "country_en": "Mauritius"
+     },
+     {
+      "kod": 484,
+      "kod_a_2": "MX",
+      "kod_a_3": "MEX",
+      "country_short": "МЕКСИКА",
+      "country_long": "Мексиканські Сполучені Штати",
+      "country_en": "Mexico"
+     },
+     {
+      "kod": 492,
+      "kod_a_2": "MC",
+      "kod_a_3": "MCO",
+      "country_short": "МОНАКО",
+      "country_long": "Князівство Монако",
+      "country_en": "Monaco"
+     },
+     {
+      "kod": 496,
+      "kod_a_2": "MN",
+      "kod_a_3": "MNG",
+      "country_short": "МОНГОЛІЯ",
+      "country_long": "МОНГОЛІЯ",
+      "country_en": "Mongolia"
+     },
+     {
+      "kod": 498,
+      "kod_a_2": "MD",
+      "kod_a_3": "MDA",
+      "country_short": "МОЛДОВА, РЕСПУБЛІКА",
+      "country_long": "Республіка Молдова",
+      "country_en": "Moldova, Republic of"
+     },
+     {
+      "kod": 499,
+      "kod_a_2": "ME",
+      "kod_a_3": "MNE",
+      "country_short": "ЧОРНОГОРІЯ",
+      "country_long": "ЧОРНОГОРІЯ",
+      "country_en": "Montenegro"
+     },
+     {
+      "kod": 500,
+      "kod_a_2": "MS",
+      "kod_a_3": "MSR",
+      "country_short": "МОНТСЕРРАТ",
+      "country_long": "МОНТСЕРРАТ",
+      "country_en": "Montserrat"
+     },
+     {
+      "kod": 504,
+      "kod_a_2": "MA",
+      "kod_a_3": "MAR",
+      "country_short": "МАРОККО",
+      "country_long": "Королівство Марокко",
+      "country_en": "Morocco"
+     },
+     {
+      "kod": 508,
+      "kod_a_2": "MZ",
+      "kod_a_3": "MOZ",
+      "country_short": "МОЗАМБІК",
+      "country_long": "Республіка Мозамбік",
+      "country_en": "Mozambique"
+     },
+     {
+      "kod": 512,
+      "kod_a_2": "OM",
+      "kod_a_3": "OMN",
+      "country_short": "ОМАН",
+      "country_long": "Султанат Оман",
+      "country_en": "Oman"
+     },
+     {
+      "kod": 516,
+      "kod_a_2": "NA",
+      "kod_a_3": "NAM",
+      "country_short": "НАМІБІЯ",
+      "country_long": "Республікa Намібія",
+      "country_en": "Namibia"
+     },
+     {
+      "kod": 520,
+      "kod_a_2": "NR",
+      "kod_a_3": "NRU",
+      "country_short": "НАУРУ",
+      "country_long": "Республіка Науру",
+      "country_en": "Nauru"
+     },
+     {
+      "kod": 524,
+      "kod_a_2": "NP",
+      "kod_a_3": "NPL",
+      "country_short": "НЕПАЛ",
+      "country_long": "Королівство Непал",
+      "country_en": "Nepаl"
+     },
+     {
+      "kod": 528,
+      "kod_a_2": "NL",
+      "kod_a_3": "NLD",
+      "country_short": "НІДЕРЛАНДИ",
+      "country_long": "Королівство Нідерландів",
+      "country_en": "Netherlands"
+     },
+     {
+      "kod": 531,
+      "kod_a_2": "CW",
+      "kod_a_3": "CUW",
+      "country_short": "КЮРАСАО",
+      "country_long": "КЮРАСАО",
+      "country_en": "Cura?ao"
+     },
+     {
+      "kod": 533,
+      "kod_a_2": "AW",
+      "kod_a_3": "ABW",
+      "country_short": "АРУБА",
+      "country_long": "АРУБА",
+      "country_en": "Aruba"
+     },
+     {
+      "kod": 534,
+      "kod_a_2": "SX",
+      "kod_a_3": "SXM",
+      "country_short": "СІНТ-МАРТЕН (НІДЕРЛАНДСЬКА ЧАСТИНА)",
+      "country_long": "СІНТ-МАРТЕН (НІДЕРЛАНДСЬКА ЧАСТИНА)",
+      "country_en": "Sint-Maarten (Dutch part)"
+     },
+     {
+      "kod": 535,
+      "kod_a_2": "BQ",
+      "kod_a_3": "BES",
+      "country_short": "БОНАЙРЕ, СІНТ-ЕСТАТІУС І САБА",
+      "country_long": "БОНАЙРЕ, СІНТ-ЕСТАТІУС І САБА",
+      "country_en": "Bonaire, Saint Eustatius and Saba"
+     },
+     {
+      "kod": 540,
+      "kod_a_2": "NC",
+      "kod_a_3": "NCL",
+      "country_short": "НОВА КАЛЕДОНІЯ",
+      "country_long": "НОВА КАЛЕДОНІЯ",
+      "country_en": "New Caledonia"
+     },
+     {
+      "kod": 548,
+      "kod_a_2": "VU",
+      "kod_a_3": "VUT",
+      "country_short": "ВАНУАТУ",
+      "country_long": "Республіка Вануату",
+      "country_en": "Vanuatu"
+     },
+     {
+      "kod": 554,
+      "kod_a_2": "NZ",
+      "kod_a_3": "NZL",
+      "country_short": "НОВА ЗЕЛАНДІЯ",
+      "country_long": "НОВА ЗЕЛАНДІЯ",
+      "country_en": "New Zealand"
+     },
+     {
+      "kod": 558,
+      "kod_a_2": "NI",
+      "kod_a_3": "NIC",
+      "country_short": "НІКАРАГУА",
+      "country_long": "Республіка Нікарагуа",
+      "country_en": "Nicaragua"
+     },
+     {
+      "kod": 562,
+      "kod_a_2": "NE",
+      "kod_a_3": "NER",
+      "country_short": "НІГЕР",
+      "country_long": "Республіка Нігер",
+      "country_en": "Niger"
+     },
+     {
+      "kod": 566,
+      "kod_a_2": "NG",
+      "kod_a_3": "NGA",
+      "country_short": "НІГЕРІЯ",
+      "country_long": "Федеративна Республіка Нігерія",
+      "country_en": "Nigeria"
+     },
+     {
+      "kod": 570,
+      "kod_a_2": "NU",
+      "kod_a_3": "NIU",
+      "country_short": "НІУЕ",
+      "country_long": "НІУЕ",
+      "country_en": "Niue"
+     },
+     {
+      "kod": 574,
+      "kod_a_2": "NF",
+      "kod_a_3": "NFK",
+      "country_short": "ОСТРІВ НОРФОЛК",
+      "country_long": "ОСТРІВ НОРФОЛК",
+      "country_en": "Norfolk Island"
+     },
+     {
+      "kod": 578,
+      "kod_a_2": "NO",
+      "kod_a_3": "NOR",
+      "country_short": "НОРВЕГІЯ",
+      "country_long": "Королівство Норвегія",
+      "country_en": "Norway"
+     },
+     {
+      "kod": 580,
+      "kod_a_2": "MP",
+      "kod_a_3": "MNP",
+      "country_short": "ПІВНІЧНІ МАРІАНСЬКІ ОСТРОВИ",
+      "country_long": "Співдружність Північних Маріанських Островів",
+      "country_en": "Northern Mariana Islands"
+     },
+     {
+      "kod": 581,
+      "kod_a_2": "UM",
+      "kod_a_3": "UMI",
+      "country_short": "МАЛІ ВІДДАЛЕНІ ОСТРОВИ США",
+      "country_long": "МАЛІ ВІДДАЛЕНІ ОСТРОВИ США",
+      "country_en": "United States Minor Outlying Islands"
+     },
+     {
+      "kod": 583,
+      "kod_a_2": "FM",
+      "kod_a_3": "FSM",
+      "country_short": "МІКРОНЕЗІЯ, ФЕДЕРАТИВНІ ШТАТИ",
+      "country_long": "Федеративні Штати Мікронезії",
+      "country_en": "Micronesia, Federated States of"
+     },
+     {
+      "kod": 584,
+      "kod_a_2": "MH",
+      "kod_a_3": "MHL",
+      "country_short": "МАРШАЛЛОВІ ОСТРОВИ",
+      "country_long": "Республіка Маршаллові Острови",
+      "country_en": "Marshall Islands"
+     },
+     {
+      "kod": 585,
+      "kod_a_2": "PW",
+      "kod_a_3": "PLW",
+      "country_short": "ПАЛАУ",
+      "country_long": "Республіка Палау",
+      "country_en": "Palau"
+     },
+     {
+      "kod": 586,
+      "kod_a_2": "PK",
+      "kod_a_3": "PAK",
+      "country_short": "ПАКИСТАН",
+      "country_long": "Ісламська Республіка Пакистан",
+      "country_en": "Pakistan"
+     },
+     {
+      "kod": 591,
+      "kod_a_2": "PA",
+      "kod_a_3": "PAN",
+      "country_short": "ПАНАМА",
+      "country_long": "Республіка Панама",
+      "country_en": "Panama"
+     },
+     {
+      "kod": 598,
+      "kod_a_2": "PG",
+      "kod_a_3": "PNG",
+      "country_short": "ПАПУА-НОВА ГВІНЕЯ",
+      "country_long": "Папуа-Нова Гвінея",
+      "country_en": "Papua New Guinea"
+     },
+     {
+      "kod": 600,
+      "kod_a_2": "PY",
+      "kod_a_3": "PRY",
+      "country_short": "ПАРАГВАЙ",
+      "country_long": "Республіка Парагвай",
+      "country_en": "Paraguay"
+     },
+     {
+      "kod": 604,
+      "kod_a_2": "PE",
+      "kod_a_3": "PER",
+      "country_short": "ПЕРУ",
+      "country_long": "Республіка Перу",
+      "country_en": "Peru"
+     },
+     {
+      "kod": 608,
+      "kod_a_2": "PH",
+      "kod_a_3": "PHL",
+      "country_short": "ФІЛІППІНИ",
+      "country_long": "Республіка Філіппіни",
+      "country_en": "Philippines"
+     },
+     {
+      "kod": 612,
+      "kod_a_2": "PN",
+      "kod_a_3": "PCN",
+      "country_short": "ПІТКЕРН",
+      "country_long": "ПІТКЕРН",
+      "country_en": "Pitcairn"
+     },
+     {
+      "kod": 616,
+      "kod_a_2": "PL",
+      "kod_a_3": "POL",
+      "country_short": "ПОЛЬЩА",
+      "country_long": "Республіка Польща",
+      "country_en": "Poland"
+     },
+     {
+      "kod": 620,
+      "kod_a_2": "PT",
+      "kod_a_3": "PRT",
+      "country_short": "ПОРТУГАЛІЯ",
+      "country_long": "Португальська Республіка",
+      "country_en": "Portugal"
+     },
+     {
+      "kod": 624,
+      "kod_a_2": "GW",
+      "kod_a_3": "GNB",
+      "country_short": "ГВІНЕЯ-БІСАУ",
+      "country_long": "Республіка Гвінея-Бісау",
+      "country_en": "Guinea-Bissau"
+     },
+     {
+      "kod": 626,
+      "kod_a_2": "TL",
+      "kod_a_3": "TLS",
+      "country_short": "ТИМОР-ЛЕШТІ",
+      "country_long": "Демократична Республіка Тимор-Лешті",
+      "country_en": "Timor-Leste"
+     },
+     {
+      "kod": 630,
+      "kod_a_2": "PR",
+      "kod_a_3": "PRI",
+      "country_short": "ПУЕРТО-РИКО",
+      "country_long": "Пуерто-Рико",
+      "country_en": "Puerto Rico"
+     },
+     {
+      "kod": 634,
+      "kod_a_2": "QA",
+      "kod_a_3": "QAT",
+      "country_short": "КАТАР",
+      "country_long": "Держава Катар",
+      "country_en": "Qatar"
+     },
+     {
+      "kod": 638,
+      "kod_a_2": "RE",
+      "kod_a_3": "REU",
+      "country_short": "РЕЮНЬЙОН",
+      "country_long": "РЕЮНЬЙОН",
+      "country_en": "R?union"
+     },
+     {
+      "kod": 642,
+      "kod_a_2": "RO",
+      "kod_a_3": "ROU",
+      "country_short": "РУМУНІЯ",
+      "country_long": "РУМУНІЯ",
+      "country_en": "Romania"
+     },
+     {
+      "kod": 643,
+      "kod_a_2": "RU",
+      "kod_a_3": "RUS",
+      "country_short": "РОСІЙСЬКА ФЕДЕРАЦІЯ",
+      "country_long": "РОСІЙСЬКА ФЕДЕРАЦІЯ",
+      "country_en": "Russian Federation"
+     },
+     {
+      "kod": 646,
+      "kod_a_2": "RW",
+      "kod_a_3": "RWA",
+      "country_short": "РУАНДА",
+      "country_long": "Руандійська Республіка",
+      "country_en": "Rwanda"
+     },
+     {
+      "kod": 652,
+      "kod_a_2": "BL",
+      "kod_a_3": "BLM",
+      "country_short": "СЕН-БАРТЕЛЕМІ",
+      "country_long": "СЕН-БАРТЕЛЕМІ",
+      "country_en": "Saint Barth?lemy"
+     },
+     {
+      "kod": 654,
+      "kod_a_2": "SH",
+      "kod_a_3": "SHN",
+      "country_short": "ОСТРІВ СВЯТОЇ ЄЛЕНИ",
+      "country_long": "ОСТРІВ СВЯТОЇ ЄЛЕНИ",
+      "country_en": "Saint Helena"
+     },
+     {
+      "kod": 659,
+      "kod_a_2": "KN",
+      "kod_a_3": "KNA",
+      "country_short": "СЕНТ-КІТС І НЕВІС",
+      "country_long": "СЕНТ-КІТС І НЕВІС",
+      "country_en": "Saint Kitts аnd Nevis"
+     },
+     {
+      "kod": 660,
+      "kod_a_2": "AI",
+      "kod_a_3": "AIA",
+      "country_short": "АНГІЛЬЯ",
+      "country_long": "Ангілья",
+      "country_en": "Anguilla"
+     },
+     {
+      "kod": 662,
+      "kod_a_2": "LC",
+      "kod_a_3": "LCA",
+      "country_short": "СЕНТ-ЛЮСІЯ",
+      "country_long": "СЕНТ-ЛЮСІЯ",
+      "country_en": "Saint Lucia"
+     },
+     {
+      "kod": 663,
+      "kod_a_2": "MF",
+      "kod_a_3": "MAF",
+      "country_short": "СЕН-МАРТЕН (ФРАНЦУЗСЬКА ЧАСТИНА)",
+      "country_long": "СЕН-МАРТЕН (ФРАНЦУЗСЬКА ЧАСТИНА)",
+      "country_en": "Saint Martin (French part)"
+     },
+     {
+      "kod": 666,
+      "kod_a_2": "PM",
+      "kod_a_3": "SPM",
+      "country_short": "СЕН-П'ЄР І МІКЕЛОН",
+      "country_long": "СЕН-П'ЄР І МІКЕЛОН",
+      "country_en": "Saint Pierre and Miquelon"
+     },
+     {
+      "kod": 670,
+      "kod_a_2": "VC",
+      "kod_a_3": "VCT",
+      "country_short": "СЕНТ-ВІНСЕНТ І ГРЕНАДІНИ",
+      "country_long": "Сент-Вінсент і Гренадіни",
+      "country_en": "Saint Vincent and the Grenadines"
+     },
+     {
+      "kod": 674,
+      "kod_a_2": "SM",
+      "kod_a_3": "SMR",
+      "country_short": "САН-МАРИНО",
+      "country_long": "Республіка Сан-Марино",
+      "country_en": "San Marino"
+     },
+     {
+      "kod": 678,
+      "kod_a_2": "ST",
+      "kod_a_3": "STP",
+      "country_short": "САН-ТОМЕ І ПРИНСІПІ",
+      "country_long": "Демократична Республіка Сан-Томе і Принсіпі",
+      "country_en": "Sao Tome and Principe"
+     },
+     {
+      "kod": 680,
+      "kod_a_2": "-",
+      "kod_a_3": "-",
+      "country_short": "САРК",
+      "country_long": "САРК",
+      "country_en": "Sark"
+     },
+     {
+      "kod": 682,
+      "kod_a_2": "SA",
+      "kod_a_3": "SAU",
+      "country_short": "САУДІВСЬКА АРАВІЯ",
+      "country_long": "Королівство Саудівська Аравія",
+      "country_en": "Saudi Arabia"
+     },
+     {
+      "kod": 686,
+      "kod_a_2": "SN",
+      "kod_a_3": "SEN",
+      "country_short": "СЕНЕГАЛ",
+      "country_long": "Республіка Сенегал",
+      "country_en": "Senegal"
+     },
+     {
+      "kod": 688,
+      "kod_a_2": "RS",
+      "kod_a_3": "SRB",
+      "country_short": "СЕРБІЯ",
+      "country_long": "СЕРБІЯ",
+      "country_en": "Serbia"
+     },
+     {
+      "kod": 690,
+      "kod_a_2": "SC",
+      "kod_a_3": "SYC",
+      "country_short": "СЕЙШЕЛЬСЬКІ ОСТРОВИ",
+      "country_long": "Республіка Сейшельські Острови",
+      "country_en": "Seychelles"
+     },
+     {
+      "kod": 694,
+      "kod_a_2": "SL",
+      "kod_a_3": "SLE",
+      "country_short": "СЬЄРРА-ЛЕОНЕ",
+      "country_long": "Республіка Сьєрра-Леоне",
+      "country_en": "Sierra Leone"
+     },
+     {
+      "kod": 702,
+      "kod_a_2": "SG",
+      "kod_a_3": "SGP",
+      "country_short": "СИНГАПУР",
+      "country_long": "Республіка Сингапур",
+      "country_en": "Singapore"
+     },
+     {
+      "kod": 703,
+      "kod_a_2": "SK",
+      "kod_a_3": "SVK",
+      "country_short": "СЛОВАЧЧИНА",
+      "country_long": "Словацька Республіка",
+      "country_en": "Slovakia"
+     },
+     {
+      "kod": 704,
+      "kod_a_2": "VN",
+      "kod_a_3": "VNM",
+      "country_short": "В'ЄТНАМ",
+      "country_long": "Соціалістична Республіка В'єтнам",
+      "country_en": "Viet Nam"
+     },
+     {
+      "kod": 705,
+      "kod_a_2": "SI",
+      "kod_a_3": "SVN",
+      "country_short": "СЛОВЕНІЯ",
+      "country_long": "Рecпублікa Словенія",
+      "country_en": "Slovenia"
+     },
+     {
+      "kod": 706,
+      "kod_a_2": "SO",
+      "kod_a_3": "SOM",
+      "country_short": "СОМАЛІ",
+      "country_long": "Сомалійська Республіка",
+      "country_en": "Somalia"
+     },
+     {
+      "kod": 710,
+      "kod_a_2": "ZA",
+      "kod_a_3": "ZAF",
+      "country_short": "ПІВДЕННА АФРИКА",
+      "country_long": "Південноафриканська Республіка",
+      "country_en": "South Africa"
+     },
+     {
+      "kod": 716,
+      "kod_a_2": "ZW",
+      "kod_a_3": "ZWE",
+      "country_short": "ЗІМБАБВЕ",
+      "country_long": "Республіка Зімбабве",
+      "country_en": "Zimbabwe"
+     },
+     {
+      "kod": 724,
+      "kod_a_2": "ES",
+      "kod_a_3": "ESP",
+      "country_short": "ІСПАНІЯ",
+      "country_long": "Королівство Іспанія",
+      "country_en": "Spain"
+     },
+     {
+      "kod": 728,
+      "kod_a_2": "SS",
+      "kod_a_3": "SSD",
+      "country_short": "ПІВДЕННИЙ СУДАН",
+      "country_long": "Республіка Південний Судан",
+      "country_en": "South Sudan"
+     },
+     {
+      "kod": 729,
+      "kod_a_2": "SD",
+      "kod_a_3": "SDN",
+      "country_short": "СУДАН",
+      "country_long": "Республіка Судан",
+      "country_en": "Sudan"
+     },
+     {
+      "kod": 732,
+      "kod_a_2": "EH",
+      "kod_a_3": "ESH",
+      "country_short": "ЗАХІДНА САХАРА",
+      "country_long": "ЗАХІДНА САХАРА",
+      "country_en": "Western Sahara"
+     },
+     {
+      "kod": 740,
+      "kod_a_2": "SR",
+      "kod_a_3": "SUR",
+      "country_short": "СУРИНАМ",
+      "country_long": "Республіка Суринам",
+      "country_en": "Suriname"
+     },
+     {
+      "kod": 744,
+      "kod_a_2": "SJ",
+      "kod_a_3": "SJM",
+      "country_short": "ШПІЦБЕРГЕН ТА ЯН-МАЄН",
+      "country_long": "Шпіцберген та Ян-Маєн",
+      "country_en": "Svalbard and Jan Mayen"
+     },
+     {
+      "kod": 748,
+      "kod_a_2": "SZ",
+      "kod_a_3": "SWZ",
+      "country_short": "СВАЗІЛЕНД",
+      "country_long": "Королівство Свазіленд",
+      "country_en": "Swaziland"
+     },
+     {
+      "kod": 752,
+      "kod_a_2": "SE",
+      "kod_a_3": "SWE",
+      "country_short": "ШВЕЦІЯ",
+      "country_long": "Королівство Швеція",
+      "country_en": "Sweden"
+     },
+     {
+      "kod": 756,
+      "kod_a_2": "CH",
+      "kod_a_3": "CHE",
+      "country_short": "ШВЕЙЦАРІЯ",
+      "country_long": "Швейцарська Конфедерація",
+      "country_en": "Switzerland"
+     },
+     {
+      "kod": 760,
+      "kod_a_2": "SY",
+      "kod_a_3": "SYR",
+      "country_short": "СИРІЙСЬКА АРАБСЬКА РЕСПУБЛІКА",
+      "country_long": "СИРІЙСЬКА АРАБСЬКА РЕСПУБЛІКА",
+      "country_en": "Syrian Arab Republic"
+     },
+     {
+      "kod": 762,
+      "kod_a_2": "TJ",
+      "kod_a_3": "TJK",
+      "country_short": "ТАДЖИКИСТАН",
+      "country_long": "Республіка Таджикистан",
+      "country_en": "Tajikistan"
+     },
+     {
+      "kod": 764,
+      "kod_a_2": "TH",
+      "kod_a_3": "THA",
+      "country_short": "ТАЇЛАНД",
+      "country_long": "Королівство Таїланд",
+      "country_en": "Thailand"
+     },
+     {
+      "kod": 768,
+      "kod_a_2": "TG",
+      "kod_a_3": "TGO",
+      "country_short": "ТОГО",
+      "country_long": "Тоголезька Республіка",
+      "country_en": "Togo"
+     },
+     {
+      "kod": 772,
+      "kod_a_2": "TK",
+      "kod_a_3": "TKL",
+      "country_short": "ТОКЕЛАУ",
+      "country_long": "ТОКЕЛАУ",
+      "country_en": "Tokelau"
+     },
+     {
+      "kod": 776,
+      "kod_a_2": "TO",
+      "kod_a_3": "TON",
+      "country_short": "ТОНГА",
+      "country_long": "Королівство Тонга",
+      "country_en": "Tonga"
+     },
+     {
+      "kod": 780,
+      "kod_a_2": "TT",
+      "kod_a_3": "TTO",
+      "country_short": "ТРИНІДАД І ТОБАГО",
+      "country_long": "Республіка Тринідад і Тобаго",
+      "country_en": "Trinidad and Tobago"
+     },
+     {
+      "kod": 784,
+      "kod_a_2": "AE",
+      "kod_a_3": "ARE",
+      "country_short": "ОБ'ЄДНАНІ АРАБСЬКІ ЕМІРАТИ",
+      "country_long": "ОБ'ЄДНАНІ АРАБСЬКІ ЕМІРАТИ",
+      "country_en": "United Arab Emirates"
+     },
+     {
+      "kod": 788,
+      "kod_a_2": "TN",
+      "kod_a_3": "TUN",
+      "country_short": "ТУНІС",
+      "country_long": "Туніська Республіка",
+      "country_en": "Tunisia"
+     },
+     {
+      "kod": 792,
+      "kod_a_2": "TR",
+      "kod_a_3": "TUR",
+      "country_short": "ТУРЕЧЧИНА",
+      "country_long": "Турецька Республіка",
+      "country_en": "Turkey"
+     },
+     {
+      "kod": 795,
+      "kod_a_2": "TM",
+      "kod_a_3": "TKM",
+      "country_short": "ТУРКМЕНИСТАН",
+      "country_long": "Туркменистан",
+      "country_en": "Turkmenistan"
+     },
+     {
+      "kod": 796,
+      "kod_a_2": "TC",
+      "kod_a_3": "TCA",
+      "country_short": "ОСТРОВИ ТЕРКС І КАЙКОС",
+      "country_long": "ОСТРОВИ ТЕРКС І КАЙКОС",
+      "country_en": "Turks and Caicos Islands"
+     },
+     {
+      "kod": 798,
+      "kod_a_2": "TV",
+      "kod_a_3": "TUV",
+      "country_short": "ТУВАЛУ",
+      "country_long": "ТУВАЛУ",
+      "country_en": "Tuvalu"
+     },
+     {
+      "kod": 800,
+      "kod_a_2": "UG",
+      "kod_a_3": "UGA",
+      "country_short": "УГАНДА",
+      "country_long": "Республіка Уганда",
+      "country_en": "Uganda"
+     },
+     {
+      "kod": 804,
+      "kod_a_2": "UA",
+      "kod_a_3": "UKR",
+      "country_short": "УКРАЇНА",
+      "country_long": "УКРАЇНА",
+      "country_en": "Ukraine"
+     },
+     {
+      "kod": 807,
+      "kod_a_2": "MK",
+      "kod_a_3": "MKD",
+      "country_short": "РЕСПУБЛІКА МАКЕДОНІЯ (КОЛИШНЯ ЮГОСЛАВСЬКА РЕСПУБЛІ",
+      "country_long": "Республіка Македонія (колишня Югославська республіка)",
+      "country_en": "Macedonia (The former Yugoslav Republic of)"
+     },
+     {
+      "kod": 818,
+      "kod_a_2": "EG",
+      "kod_a_3": "EGY",
+      "country_short": "ЄГИПЕТ",
+      "country_long": "Арабська Республіка Єгипет",
+      "country_en": "Egypt"
+     },
+     {
+      "kod": 826,
+      "kod_a_2": "GB",
+      "kod_a_3": "GBR",
+      "country_short": "ВЕЛИКА БРИТАНІЯ",
+      "country_long": "Сполучене Королівство Великої Британії та Північної Ірландії",
+      "country_en": "United Kingdom"
+     },
+     {
+      "kod": 831,
+      "kod_a_2": "GG",
+      "kod_a_3": "GGY",
+      "country_short": "ГЕРНСІ",
+      "country_long": "Гернсі",
+      "country_en": "Guernsey"
+     },
+     {
+      "kod": 832,
+      "kod_a_2": "JE",
+      "kod_a_3": "JEY",
+      "country_short": "ДЖЕРСІ",
+      "country_long": "ДЖЕРСІ",
+      "country_en": "Jersey"
+     },
+     {
+      "kod": 833,
+      "kod_a_2": "IM",
+      "kod_a_3": "IMN",
+      "country_short": "ОСТРІВ МЕН",
+      "country_long": "ОСТРІВ МЕН",
+      "country_en": "Isle of Man"
+     },
+     {
+      "kod": 834,
+      "kod_a_2": "TZ",
+      "kod_a_3": "TZA",
+      "country_short": "ТАНЗАНІЯ, ОБ'ЄДНАНА РЕСПУБЛІКА",
+      "country_long": "Об'єднана Республіка Танзія",
+      "country_en": "Tanzania, United Republic of"
+     },
+     {
+      "kod": 840,
+      "kod_a_2": "US",
+      "kod_a_3": "USA",
+      "country_short": "США",
+      "country_long": "Сполучені Штати Америки",
+      "country_en": "United States"
+     },
+     {
+      "kod": 850,
+      "kod_a_2": "VI",
+      "kod_a_3": "VIR",
+      "country_short": "ВІРГІНСЬКІ ОСТРОВИ (США)",
+      "country_long": "Віргінські Острови Сполучених Штатів Америки",
+      "country_en": "Virgin Islands, U.S."
+     },
+     {
+      "kod": 854,
+      "kod_a_2": "BF",
+      "kod_a_3": "BFA",
+      "country_short": "БУРКІНА-ФАСО",
+      "country_long": "БУРКІНА-ФАСО",
+      "country_en": "Burkina Faso"
+     },
+     {
+      "kod": 858,
+      "kod_a_2": "UY",
+      "kod_a_3": "URY",
+      "country_short": "УРУГВАЙ",
+      "country_long": "Східна Республіка Уругвай",
+      "country_en": "Uruguay"
+     },
+     {
+      "kod": 860,
+      "kod_a_2": "UZ",
+      "kod_a_3": "UZB",
+      "country_short": "УЗБЕКИСТАН",
+      "country_long": "Республіка Узбекистан",
+      "country_en": "Uzbekistan"
+     },
+     {
+      "kod": 862,
+      "kod_a_2": "VE",
+      "kod_a_3": "VEN",
+      "country_short": "ВЕНЕСУЕЛА",
+      "country_long": "ВЕНЕСУЕЛА",
+      "country_en": "Venezuela (Bolivarian Republic of)"
+     },
+     {
+      "kod": 876,
+      "kod_a_2": "WF",
+      "kod_a_3": "WLF",
+      "country_short": "УОЛЛІС І ФУТУНА",
+      "country_long": "УОЛЛІС І ФУТУНА",
+      "country_en": "Wallis and Futuna Islands"
+     },
+     {
+      "kod": 882,
+      "kod_a_2": "WS",
+      "kod_a_3": "WSM",
+      "country_short": "САМОА",
+      "country_long": "Незалежна держава Самоа",
+      "country_en": "Samoa"
+     },
+     {
+      "kod": 887,
+      "kod_a_2": "YE",
+      "kod_a_3": "YEM",
+      "country_short": "ЄМЕН",
+      "country_long": "Єменська Республіка",
+      "country_en": "Yemen"
+     },
+     {
+      "kod": 894,
+      "kod_a_2": "ZM",
+      "kod_a_3": "ZMB",
+      "country_short": "ЗАМБІЯ",
+      "country_long": "Республіка Замбія",
+      "country_en": "Zambia"
+     },
+     {
+      "kod": 900,
+      "kod_a_2": "ZK",
+      "kod_a_3": "ZKR",
+      "country_short": "ВІЛЬНА ЕКОНОМІЧНА ЗОНА \"КРИМ\"",
+      "country_long": "Вільна економічна зона \"Крим\""
+     }
+    ]
+    }
